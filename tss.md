@@ -1,6 +1,6 @@
 # Texivi Software Suite (TSS)
 
-The TSS is a set of single-file Unix utilities following the Unkx philosophy and the TSP
+The TSS is a set of single-file Unix utilities following the Unix philosophy and the TSP
 
 > *"do one thing and do it well."*  
 

@@ -6,7 +6,7 @@ use std::process::{Command, Stdio};
 use std::thread;
 use std::time::Duration;
 
-const SONG_URL: &str = "https://www.youtube.com/watch?v=BDb0UP9JzGM";
+const SONG_URL: &str = "https://www.youtube.com/watch?v=QDia3e12czc";
 const MARKER: &str = "# tbc-texivi-birthday";
 
 fn glyph(c: char) -> [&'static str; 5] {
